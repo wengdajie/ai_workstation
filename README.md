@@ -6,7 +6,7 @@
 
 - [下载最新更新](https://github.com/wengdajie/ai_workstation/releases/latest)
 - [首次安装：最新完整包](https://github.com/wengdajie/ai_workstation/releases/tag/v2026.10.27.1)
-- [下载本地模型](https://github.com/wengdajie/ai_workstation/releases/tag/models-2026.10.26)
+- [下载本地模型] https://pan.baidu.com/s/1dCJ2ZBxMtCpHGEZxhIEzqA?pwd=i91y 提取码: i91y 
 - [反馈问题](https://github.com/wengdajie/ai_workstation/issues)
 
 ## 安装与更新
